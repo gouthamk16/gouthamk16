@@ -1,6 +1,6 @@
-### Goutham Krishnan
+### Goutham
 
-Machine learning engineer in R&D at Couchbase, where I work on memory and evaluation for AI agents. Outside work I build robot learning, perception and ML systems, and I measure them on public benchmarks.
+Giving machines the ability to think - I build robot learning, perception and ML systems.
 
 | Project | What it is | Result |
 |---|---|---|
@@ -10,6 +10,4 @@ Machine learning engineer in R&D at Couchbase, where I work on memory and evalua
 | [miniXLA](https://github.com/gouthamk16/miniXLA) | ML compiler in C that fuses ops and emits PTX | FP32 GEMM at 84.3% of cuBLAS |
 | [vision-fsd](https://github.com/gouthamk16/vision-fsd) | Camera and LiDAR perception on nuScenes | Temporal occupancy, object velocity and a local planner |
 
-Publication: [Polaris: Multi Agentic System for Conversational Enterprise Analytics](https://arxiv.org/abs/2608.14246) (co-author).
-
-Reach me at goutham.krishnan22@gmail.com or on [LinkedIn](https://www.linkedin.com/in/goutham4981).
+Reach me on [LinkedIn](https://www.linkedin.com/in/goutham4981).
