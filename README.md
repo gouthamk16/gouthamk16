@@ -9,3 +9,6 @@ Giving machines the ability to think - I build robot learning, perception and ML
 | [vision-fsd](https://github.com/gouthamk16/vision-fsd) | Camera and LiDAR perception on nuScenes | Temporal occupancy, object velocity and a local planner |
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/goutham4981).
+
+
+[![My ML fingerprint on Deep-ML](https://www.deep-ml.com/api/badge/gouthamk16.svg?repo=deep-ml&t=PkgBzw-QxL1Vjw)](https://gouthamk16.github.io/deep-ml/)
