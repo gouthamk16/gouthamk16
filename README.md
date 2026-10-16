@@ -1,4 +1,4 @@
-Giving machines the ability to think - I build robot learning, perception and ML systems.
+I build robot learning, perception and ML systems.
 
 | Project | What it is | Result |
 |---|---|---|
