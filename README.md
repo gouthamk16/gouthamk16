@@ -8,7 +8,5 @@ I build robot learning, perception and ML systems.
 | [miniXLA](https://github.com/gouthamk16/miniXLA) | ML compiler in C that fuses ops and emits PTX | FP32 GEMM at 84.3% of cuBLAS |
 | [vision-fsd](https://github.com/gouthamk16/vision-fsd) | Camera and LiDAR perception on nuScenes | Temporal occupancy, object velocity and a local planner |
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/goutham4981).
-
 
 [![My ML fingerprint on Deep-ML](https://www.deep-ml.com/api/badge/gouthamk16.svg?repo=deep-ml&t=PkgBzw-QxL1Vjw)](https://gouthamk16.github.io/deep-ml/)
